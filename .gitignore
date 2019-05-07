@@ -1,2 +1,5 @@
 *.pyc
 *egg*
+build/*
+dist/*
+up.sh
