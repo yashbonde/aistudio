@@ -8,7 +8,6 @@ long_description = 'Software to Handle AI Research Needs'
 
 setup(name='aistudio',
       version='0.1',
-      scripts=['aistudio'] ,
       author="Yash Bonde",
       author_email="bonde.yash97@gmail.com",
       description="A Simple program to Handle AI Research Needs",
